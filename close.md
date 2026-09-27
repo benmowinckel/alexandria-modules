@@ -13,7 +13,8 @@ adaptation: personalizable
 Run whichever of the three parts below the session touched, skip any that nothing surfaced for, and leave no empty sections.
 
 **1. Keep what the session taught.** Any session can surface signal about the person, and personal ones surface the most. Route each piece quietly to its home in their own files, in their words.
-- What they think (positions, stories, patterns, contradictions) goes where they keep their beliefs; what is still unsettled goes to their working notes.
+- What they think (positions, stories, patterns, contradictions) goes to their working notes until they confirm it as their position, then where they keep their beliefs.
+- What is true of their life (where they are, the people in it, dates, plans, money, health, possessions) goes where their own list of where things live says, or their default facts file; health, money and identity details only where that list puts them, otherwise one question. Only what they said, never inferred (Alexandria: `system/canon/foundation.md` § what is kept, and what is read).
 - How to work with them (what worked, what didn't) rewrites the matching rule where they keep that, in the present tense, never as a dated diary entry.
 - A correction to a practice in their own words ("prefer Z", "X feels off because Y") is folded into that practice's file as a coherent passage, never appended as a log line, with a one-line note so they can revert it.
 - A correction you can't fold into its rule yet goes to wherever they keep corrections waiting to land.
