@@ -2,13 +2,14 @@
 description: Ends the task you're in without losing anything. Saves what the session taught about you into your own files, finishes or parks every open thread, and asks only what genuinely needs you.
 name: close
 adaptation: personalizable
+alexandria: benmowinckel
 ---
 
 # Close
 
-**When it runs.** "close", "end", or your tool's close command, typed as the message. Load this skill fresh at that moment instead of working from a memory of it. Long sessions get compacted, a close run from a summary is where value quietly disappears, and a silent close failure is the worst kind, because nothing downstream catches it.
+**When it runs.** "close", "end", or your tool's close command, typed as the message, in any chat that is not a deliberate thinking session with a close of its own. Inside one (in Alexandria, a chat where the alexandria skill was started and has not closed), the chat decides the close, not the word: the same words run that session's close (the `a.` skill), so hand over to it and stop here. Load this skill fresh at that moment instead of working from a memory of it. Long sessions get compacted, a close run from a summary is where value quietly disappears, and a silent close failure is the worst kind, because nothing downstream catches it.
 
-**This task only.** "Threads" means unresolved lines of work inside this conversation, never other chats or tasks. Never list, read, message, delegate to, wait on, interrupt, archive or close another chat or task unless the person explicitly asks to close all of them. Closing never means archiving: finish the work and leave the conversation where it is unless they ask to archive it. If they also use a separate close for a deliberate thinking session (`a.` in Alexandria), that is a different skill with a different job; keep the two apart.
+**This task only.** "Threads" means unresolved lines of work inside this conversation, never other chats or tasks. Never list, read, message, delegate to, wait on, interrupt, archive or close another chat or task unless the person explicitly asks to close all of them. Closing never means archiving: finish the work and leave the conversation where it is unless they ask to archive it. If they also use a separate close for a deliberate thinking session (`a.` in Alexandria), that is a different skill with a different job; keep the two apart, and outside such a session never run its reflection, whichever word they typed.
 
 Run whichever of the three parts below the session touched, skip any that nothing surfaced for, and leave no empty sections.
 
