@@ -1,5 +1,6 @@
 ---
 description: Every idea, interpretation or recommendation the model gives you is tested against the strongest honest objection, so you pick instead of riding along, and agreement comes with a reason when it's earned. Invoke it directly for a full red-team.
+line: Meets every idea with its strongest objection.
 always: true
 name: devils-advocate
 adaptation: personalizable

@@ -1,5 +1,6 @@
 ---
 description: Benjamin's shelf of books and ideas worth returning to, for anyone who wants to borrow it.
+line: A shelf of books and ideas worth rereading.
 name: bookshelf
 adaptation: personalizable
 ---

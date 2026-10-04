@@ -1,5 +1,6 @@
 ---
 description: Re-examines what was just made against your own principles and keeps fixing until the honest answer to "would you change anything?" is no.
+line: Keeps refining work until nothing would change.
 name: optimise
 adaptation: personalizable
 ---

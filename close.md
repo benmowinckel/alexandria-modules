@@ -1,5 +1,6 @@
 ---
 description: Ends the task you're in without losing anything. Saves what the session taught about you into your own files, finishes or parks every open thread, and asks only what genuinely needs you.
+line: Ends a task without losing anything from it.
 name: close
 adaptation: personalizable
 alexandria: benmowinckel
